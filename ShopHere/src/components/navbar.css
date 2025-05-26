@@ -1,0 +1,29 @@
+
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+nav ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li img {
+    height: 50px; /* Adjust height as needed */
+    width: auto; /* Maintain aspect ratio */
+    transition: transform 0.3s;
+}
+
+nav ul li img:hover {
+    transform: scale(1.1); /* Add hover effect */
+}
+
+nav ul li:hover {
+    cursor: pointer; /* Change cursor on hover */
+}

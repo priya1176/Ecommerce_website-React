@@ -1,0 +1,66 @@
+{
+    "firstName": "Prity",
+    "lastName": "Priyadershini",
+    "gender": "Female",
+    "email": "pritypriya@gmail.com",
+    "mobile": "+918799813478",
+    "dateOfBirth": "1995-06-15",
+    "address": {
+      "street": "123 Green Park",
+      "city": "Patna",
+      "state": "Bihar",
+      "postalCode": "800001",
+      "country": "India"
+    },
+    "orderDetails": {
+      "orderId": "ORD123456789",
+      "orderDate": "2024-10-14",
+      "items": [
+        {
+          "productId": "PROD98765",
+          "productName": "Wireless Bluetooth Headphones",
+          "quantity": 1,
+          "price": 2999,
+          "imageUrl": "./images/product1.jpeg"
+        },
+        {
+          "productId": "PROD87654",
+          "productName": "Smartphone Case",
+          "quantity": 2,
+          "price": 499,
+          "imageUrl": "./images/product2.jpg"
+        }
+      ],
+      "totalAmount": 3997,
+      "paymentMethod": "Credit Card",
+      "shippingStatus": "Processing",
+      "estimatedDelivery": "2024-10-20"
+    },
+    "paymentDetails": {
+      "savedUPI": [
+        {
+          "upiId": "prity@upi",
+          "upiProvider": "Google Pay"
+        },
+        {
+          "upiId": "pritypay@okhdfcbank",
+          "upiProvider": "PhonePe"
+        }
+      ],
+      "savedCards": [
+        {
+          "cardHolderName": "Prity Priyadershini",
+          "cardNumber": "**** **** **** 1234",
+          "expiryDate": "12/26",
+          "cardType": "Visa"
+        },
+        {
+          "cardHolderName": "Prity Priyadershini",
+          "cardNumber": "**** **** **** 5678",
+          "expiryDate": "08/25",
+          "cardType": "MasterCard"
+        }
+      ]
+    }
+  }
+  

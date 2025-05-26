@@ -1,0 +1,126 @@
+{
+  "Men's clothing": {
+
+  "category": "Men's clothing",
+  "products": [
+    {
+      "id": 1,
+      "name": "Casual T-Shirt",
+      "price": 19.99,
+      "brand": "Brand A",
+      "size": ["S", "M", "L", "XL"],
+      "color": "Blue",
+      "image_url": "images/T-shirt.jpg",
+      "description": "A comfortable and stylish casual t-shirt made from soft cotton.",
+      "ratings": 4.5,
+      "reviews": 150
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 49.99,
+      "brand": "Brand B",
+      "size": ["32", "34", "36", "38"],
+      "color": "Dark Blue",
+      "image_url": "images/jeans.webp",
+      "description": "Slim fit jeans with a modern look, made from durable denim.",
+      "ratings": 4.7,
+      "reviews": 200
+    },
+    {
+      "id": 3,
+      "name": "Leather Jacket",
+      "price": 120.00,
+      "brand": "Brand C",
+      "size": ["M", "L", "XL"],
+      "color": "Black",
+      "image_url": "images/l-jacket.webp",
+      "description": "Premium leather jacket with a sleek design, perfect for a bold look.",
+      "ratings": 4.8,
+      "reviews": 95
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "brand": "Brand D",
+      "size": ["8", "9", "10", "11"],
+      "color": "White",
+      "image_url": "images/sports-shoe.jpeg",
+      "description": "Lightweight and comfortable running shoes with excellent support.",
+      "ratings": 4.6,
+      "reviews": 175
+    },
+    {
+      "id": 5,
+      "name": "Chronograph Watch",
+      "price": 199.99,
+      "brand": "Brand E",
+      "color": "Silver",
+      "image_url": "images/chron-watch.webp",
+      "description": "Elegant chronograph watch with a stainless steel strap.",
+      "ratings": 4.9,
+      "reviews": 60
+    },
+    {
+      "id": 6,
+      "name": "Formal Shirt",
+      "price": 29.99,
+      "brand": "Brand F",
+      "size": ["M", "L", "XL", "XXL"],
+      "color": "White",
+      "image_url":"images/F-Shirts.webp",
+      "description": "Classic white formal shirt, perfect for business meetings or special occasions.",
+      "ratings": 4.3,
+      "reviews": 85
+    },
+    {
+      "id": 7,
+      "name": "Sports Shorts",
+      "price": 15.99,
+      "brand": "Brand G",
+      "size": ["S", "M", "L", "XL"],
+      "color": "Gray",
+      "image_url": "images/sport-short.jpg",
+      "description": "Lightweight and breathable sports shorts, ideal for running and gym workouts.",
+      "ratings": 4.2,
+      "reviews": 110
+    },
+    {
+      "id": 8,
+      "name": "Hoodie",
+      "price": 39.99,
+      "brand": "Brand H",
+      "size": ["M", "L", "XL"],
+      "color": "Black",
+      "image_url":"images/hoodie.webp",
+      "description": "Soft and cozy hoodie with a modern fit, perfect for casual wear.",
+      "ratings": 4.6,
+      "reviews": 140
+    },
+    {
+      "id": 9,
+      "name": "Leather Belt",
+      "price": 24.99,
+      "brand": "Brand I",
+      "size": ["30", "32", "34", "36", "38"],
+      "color": "Brown",
+      "image_url": "images/l-belt.webp",
+      "description": "Durable leather belt with a sleek metal buckle.",
+      "ratings": 4.5,
+      "reviews": 65
+    },
+    {
+      "id": 10,
+      "name": "Aviator Sunglasses",
+      "price": 59.99,
+      "brand": "Brand J",
+      "color": "Gold Frame/Black Lenses",
+      "image_url": "images/sunglass.jpeg",
+      "description": "Classic aviator sunglasses with UV protection lenses.",
+      "ratings": 4.7,
+      "reviews": 90
+    }
+  ]
+}
+}
